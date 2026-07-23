@@ -1,0 +1,9 @@
+﻿1.Descargar el logo de una empresa: Servidor estático, porque el mismo logo se muestra igual para todos.
+
+2.Ver el saldo de tu cuenta bancaria en línea: Contenedor dinámico, porque el saldo depende de cada usuario.
+
+3.Abrir un PDF de un syllabus: Servidor estático, ya que todos descargan el mismo archivo.
+
+4.Ver tu feed personalizado de redes sociales: Contenedor dinámico, porque el contenido cambia según la persona y la actividad.
+
+5.Cargar el ícono de favoritos (favicon) de un sitio: Servidor estático, porque es el mismo ícono para todos los visitantes.
